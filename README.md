@@ -19,5 +19,5 @@ it on the website. That's it!
 
 ## Showcase
 
-- Alfred Workflow Collection: [h1z3y3/m3o-alfred-app](https://github.com/h1z3y3/m3o-alfred-app)
-    - [Gif Search](https://github.com/h1z3y3/m3o-alfred-app/tree/master/gif-search-go)
+- Alfred Workflow Collection: [h1z3y3/m3o-alfred-workflow](https://github.com/h1z3y3/m3o-alfred-workflow)
+    - [Gif Search](https://github.com/h1z3y3/m3o-alfred-workflow/tree/master/gif-search-go)
