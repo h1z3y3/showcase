@@ -16,3 +16,7 @@ example.
 
 Once you've built the app, submit it in a PR here including a screenshot and we'll feature 
 it on the website. That's it!
+
+## Showcase
+
+- Alfred Workflow Collection: [h1z3y3/m3o-alfred-app](https://github.com/h1z3y3/m3o-alfred-app)
